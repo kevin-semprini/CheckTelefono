@@ -3,9 +3,9 @@ date delle stringhe di numeri di telefono, un algoritmo le passa in rassegna e c
 
 ## quando un numero è valido?
 è stato deciso che un numero di telefono viene definito valido secondo queste specifiche:<br>
-inizia con +39 (esattamente lungo 13)<br>
-inizia con 0039 (esattamente lungi 14)<br>
-inizia con un 3 (esattamente lungo 10)
+inizia con +39 (esattamente lungo 13)<br><br>
+inizia con 0039 (esattamente lungi 14)<br><br>
+inizia con un 3 (esattamente lungo 10)<br><br>
 
 ## quando non è considerato valido?
 quando inizia con qualsiasi altro numero ed è più piccolo di 10 numeri 
